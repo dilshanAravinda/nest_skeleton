@@ -25,7 +25,8 @@ export class BookController {
 
   @Get()
   async findAll() {
-    return this.bookService.findAll();
+    // return this.bookService.findAll();
+    return "hello";
   }
 
   @Post(':id')
