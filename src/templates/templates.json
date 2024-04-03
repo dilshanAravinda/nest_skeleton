@@ -1,0 +1,23 @@
+{
+    "templates": [
+      {
+        "id": "template1",
+        "name": "Template 1",
+        "data": {
+          "placeholder1": "value1",
+          "placeholder2": "value2",
+          "placeholder3": "value3"
+        }
+      },
+      {
+        "id": "template2",
+        "name": "Template 2",
+        "data": {
+          "placeholder1": "value1",
+          "placeholder2": "value2",
+          "placeholder3": "value3"
+        }
+      }
+    ]
+  }
+  
